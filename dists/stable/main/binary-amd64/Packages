@@ -1,0 +1,29 @@
+Package: semantic-search
+Version: 1.0.0
+Architecture: all
+Maintainer: Kimixbb <189844784+Kimixbb@users.noreply.github.com>
+Installed-Size: 26
+Depends: python3 (>= 3.8), python3-pip
+Filename: pool/main/semantic-search_1.0.0_all.deb
+Size: 6416
+MD5sum: e6168c7074f7103ebe82be595b50c420
+SHA1: 56cc64c152309b096d66a91c1a7f02cbe0022794
+SHA256: d4848ee9f80383f09c17b823e413afb0d9840283dc535373a5588ea84cee19b1
+Section: utils
+Priority: optional
+Homepage: https://github.com/Kimixbb/semantic_search
+Description: Terminal-based semantic search file viewer powered by DeepSeek AI
+ semantic-search is a terminal-based file viewer (similar to less) that enables
+ semantic search within text files using the DeepSeek AI API. Instead of exact
+ pattern matching, it uses LLM-powered search to find semantically relevant
+ content based on natural language queries.
+ .
+ Features:
+  - Natural language semantic search
+  - Three relevance levels (STRICT, NORMAL, LOOSE)
+  - Vim-style navigation keybindings
+  - Jump between matches with n/N
+  - Real-time search result highlighting
+ .
+ Requires DEEPSEEK_API_KEY environment variable to be set.
+
