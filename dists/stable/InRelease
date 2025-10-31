@@ -8,27 +8,27 @@ Codename: stable
 Architectures: all amd64
 Components: main
 Description: Custom APT repository for semantic-search
-Date: Fri, 31 Oct 2025 15:52:32 +0000
+Date: Fri, 31 Oct 2025 16:37:59 +0000
 MD5Sum:
- 7066d94d17b4fb9115d637a31f525448 1125 main/binary-amd64/Packages
- 31638cceffedbe2fba3dd3135c267a59 719 main/binary-amd64/Packages.gz
+ d6bc1a60a755bc88312f26d9d484e620 1125 main/binary-amd64/Packages
+ 4363de7ae3539abada483f9492d4a3d7 706 main/binary-amd64/Packages.gz
 SHA1:
- 1717d0c1daf3124dcb9692260931d0bbe5299208 1125 main/binary-amd64/Packages
- 65e5cf4c05d3f63b2ca4bf8399fb28ee585795da 719 main/binary-amd64/Packages.gz
+ 7ae65e40fa4ce0481457298b26c516f9566474fd 1125 main/binary-amd64/Packages
+ 96eeaa3de849ceede098c74336a162b5c51eb6ac 706 main/binary-amd64/Packages.gz
 SHA256:
- 53e676ad3c2caafaf39511780bd54318348261128be5f222f82bef791055dae9 1125 main/binary-amd64/Packages
- 12f252c6f4bfcbfe1bd24f84d66f1b6d09dd5d7276ac3499634c8065e95c6c95 719 main/binary-amd64/Packages.gz
+ 16f082ce82754ac424941b34f75226fd4866f1736eb8941bcebc80dcd30dcb6d 1125 main/binary-amd64/Packages
+ 09dc450711e0e2f286255a10084344ce5fea5fb085c4a3e0250f10e7ea8f98b5 706 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEE+IW8l/sDUWuCaQ3Pzug1Kl/1BWAFAmkE42YACgkQzug1Kl/1
-BWCHhgwAry4eHFSe+M69xR7jEDb9AtCJtsrPo6/1dzcvfK1PI7xpCXIR1PNG1EZs
-DfNIbIZz1253aAveXQ1Wq6fF6OMpk4NrI9aEO93s/0mVGCkBzkSc8I1jYyNOaWNB
-ItDuBO8kKLHbWZsM4UPFGJhJnXkedkr8xa+e2skHCENXs75vSaR6f5zvhJKqDSG6
-SNclCmXMVcWXQGg8NBWjNT4RZpl/zd6iYYpvwUEmp+lezNZcJU/ZeRuWjfvfzLDV
-yrUuTDJbUOYhoz9NOKoqGec4DMyvNZcsH8WJjiTTM4L2GBHn83+FO/iR46Is0WUl
-XZZxk29DtEVxy66yifSJFk15CAGZ2/zCt/2oW7zOLBR5qiznRS/WakQSXYfsUkbj
-JB3SqIbJ9HgFbb1UUGgCWIyqsauKj4AQqV/ienYe7yhegOHJeh11XwGnZvd/cyPC
-u20vcgpJulXRcVmoGsJil4pDL9ks2ocD+hENrPr8m6er46xioQs6aUOpuCgz+krK
-4X+LO42L
-=OnjJ
+iQGzBAEBCgAdFiEE+IW8l/sDUWuCaQ3Pzug1Kl/1BWAFAmkE5gUACgkQzug1Kl/1
+BWCw2Qv/ZIq9yBM9tP6WpvDzfrHyDHS9oY1aj7Bv0fz4iwV48hX3lfSYtjWRR/OI
+sTo6ZMuwco9uPAhs/Ze8AsDJSExp8ijOCiRa75muai8wEKri0bfsaGkWVgkkMtW6
+aLRZmI6zB3OF55MTyL6imeqR0KHGdvroAYxQpsNr+C9sb9sdLaeqVq8beaGB0w3R
++1uU/5AAT66evlGBJENmfvsm58JVKmqz7P0vZWv7J6VaYDkGtO/EIqcHs0Z4Tn+U
+li2Z9KJbESPEQd7/PTp76n6LlIwDuI7mpK1DFTrRnhTE8ny3OgbqaD3ZsiD9I7no
+rKRYZlPKfEdOYLfWbRHAXWIsRPmJdPBs+i61HwlV+JBXv5+qIwjkiwQNVaPtGm4J
+CM3engN/+uFP3m8F8oofN+BQxRy2eWeXS/UTTCFZdGAv9oIxL/bUQAjAwBYgkGpm
+QFHE+KFIVbpvZ6FZ8MRkrAkOUuP7CCy0nsDmOaQo2Vhz62m1x9woNMd/E6C/Y8Y/
+Ec0EJUyd
+=Bbkh
 -----END PGP SIGNATURE-----

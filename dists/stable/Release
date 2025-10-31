@@ -5,13 +5,13 @@ Codename: stable
 Architectures: all amd64
 Components: main
 Description: Custom APT repository for semantic-search
-Date: Fri, 31 Oct 2025 15:52:32 +0000
+Date: Fri, 31 Oct 2025 16:37:59 +0000
 MD5Sum:
- 7066d94d17b4fb9115d637a31f525448 1125 main/binary-amd64/Packages
- 31638cceffedbe2fba3dd3135c267a59 719 main/binary-amd64/Packages.gz
+ d6bc1a60a755bc88312f26d9d484e620 1125 main/binary-amd64/Packages
+ 4363de7ae3539abada483f9492d4a3d7 706 main/binary-amd64/Packages.gz
 SHA1:
- 1717d0c1daf3124dcb9692260931d0bbe5299208 1125 main/binary-amd64/Packages
- 65e5cf4c05d3f63b2ca4bf8399fb28ee585795da 719 main/binary-amd64/Packages.gz
+ 7ae65e40fa4ce0481457298b26c516f9566474fd 1125 main/binary-amd64/Packages
+ 96eeaa3de849ceede098c74336a162b5c51eb6ac 706 main/binary-amd64/Packages.gz
 SHA256:
- 53e676ad3c2caafaf39511780bd54318348261128be5f222f82bef791055dae9 1125 main/binary-amd64/Packages
- 12f252c6f4bfcbfe1bd24f84d66f1b6d09dd5d7276ac3499634c8065e95c6c95 719 main/binary-amd64/Packages.gz
+ 16f082ce82754ac424941b34f75226fd4866f1736eb8941bcebc80dcd30dcb6d 1125 main/binary-amd64/Packages
+ 09dc450711e0e2f286255a10084344ce5fea5fb085c4a3e0250f10e7ea8f98b5 706 main/binary-amd64/Packages.gz
